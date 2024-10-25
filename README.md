@@ -5,6 +5,7 @@
 **Programarea Calculatoarelor si Limbajelor de Programare**
 
     ## Problema 1 - Un produs infinit
+    
  
     * In program, am folosit o functie pentru transformarea numerelor din baza
 opt in baza zece, pentru a face mai usoare calculele. Citirea vectorilor a si
@@ -22,6 +23,7 @@ de acestea. Se calculeaza norma pentru fiecare dintre cei doi vectori.
 sapte zecimale exacte.
 
     ## Problema 2 - Perfectionarea punctajelor
+    
 
     * Pentru rezolvarea cerintei, am folosit functii ajutatoare pentru o
 scriere cat mai clara a codului. Mai exact, primele doua functii sunt pentru
@@ -43,6 +45,7 @@ contrar, vom afisa -1. Altfel, afisam numarul necesar de mariri.
 
 
     ## Problema 3 - Gigel si tabla de sah
+    
 
     * Pentru aceasta problema, am avut nevoie de o functie cu ajutorul careia
 sa afisam coordonata finala. 
@@ -67,6 +70,7 @@ indicele liniei.
 folosindu-ne de functia pentru conversia asemanatoare foii Excel.
 
     ## Problema 4 -  Monogram checker
+    
 
     * Pentru rezolvarea acestei probleme, am implementat functii ajutatoare.
 Astfel, primele trei functii sunt pentru citirea restrictiilor pentru linie,
