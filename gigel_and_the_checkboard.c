@@ -1,4 +1,4 @@
-//Potoceanu Ana-Maria 321CA
+
 #include <stdio.h>
 #include <string.h>
 #define MAX 1000
