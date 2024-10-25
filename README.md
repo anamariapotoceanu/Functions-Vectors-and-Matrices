@@ -1,5 +1,4 @@
 
-**Potoceanu Ana-Maria 321CA**
 
 # Tema 1 Functii, Vectori si Matrici #
 **Programarea Calculatoarelor si Limbajelor de Programare**
