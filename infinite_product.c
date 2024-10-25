@@ -1,4 +1,4 @@
-//Potoceanu Ana-Maria 321CA
+
 #include <stdio.h>
 #include <math.h>
 //Se foloseste functia pentru convertirea numerelor din baza 8 in baza zece
