@@ -4,7 +4,7 @@
 # Tema 1 Functii, Vectori si Matrici
 **Programarea Calculatoarelor si Limbajelor de Programare**
 
-    # Problema 1 - Un produs infinit
+    *Problema 1 - Un produs infinit*
     
  
     - In program, am folosit o functie pentru transformarea numerelor din baza
