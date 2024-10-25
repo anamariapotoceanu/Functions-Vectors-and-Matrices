@@ -1,4 +1,4 @@
-//Potoceanu Ana-Maria 321CA
+
 #include <stdio.h>
 #define NR 500
 #define MAX 10
