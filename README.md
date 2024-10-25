@@ -4,7 +4,7 @@
 # Tema 1 Functii, Vectori si Matrici
 **Programarea Calculatoarelor si Limbajelor de Programare**
 
-    ## Problema 1 - Un produs infinit ##
+    # Problema 1 - Un produs infinit
     
  
     - In program, am folosit o functie pentru transformarea numerelor din baza
@@ -22,7 +22,7 @@ de acestea. Se calculeaza norma pentru fiecare dintre cei doi vectori.
     - La final, se afiseaza produsul scalar, cele doua maxime si norma cu
 sapte zecimale exacte.
 
-    ## Problema 2 - Perfectionarea punctajelor ##
+    # Problema 2 - Perfectionarea punctajelor
     
 
     - Pentru rezolvarea cerintei, am folosit functii ajutatoare pentru o
@@ -44,7 +44,7 @@ necesar de mariri.
 contrar, vom afisa -1. Altfel, afisam numarul necesar de mariri.
 
 
-    ## Problema 3 - Gigel si tabla de sah ##
+    # Problema 3 - Gigel si tabla de sah 
     
 
     - Pentru aceasta problema, am avut nevoie de o functie cu ajutorul careia
@@ -69,7 +69,7 @@ indicele liniei.
     - In final, vom afisa distanta totala si coordonatele patratului final,
 folosindu-ne de functia pentru conversia asemanatoare foii Excel.
 
-    ## Problema 4 -  Monogram checker ##
+    # Problema 4 -  Monogram checker 
     
 
     - Pentru rezolvarea acestei probleme, am implementat functii ajutatoare.
